@@ -1,0 +1,4 @@
+packageName: integreatly-monitoring
+channels:
+  - currentCSV: monitoring.v0.0.25
+    name: integreatly
